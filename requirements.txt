@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy	
+keras
+jupyter
+imgaug
+tensorflow
+tqdm
+
