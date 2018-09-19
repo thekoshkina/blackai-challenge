@@ -3,7 +3,7 @@
 Tiny Yolo trained on depth single channel data
 
 
-### Instalation
+### Running 
 
 ```
 virtualenv .env                   # Create a virtual environment
