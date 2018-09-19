@@ -5,7 +5,6 @@
 # 
 # git reposotories used: 
 # 
-# https://github.com/joycex99/tiny-yolo-keras/blob/master/Tiny%20Yolo%20Keras.ipynb
 # 
 # https://github.com/experiencor/keras-yolo2/blob/master/Yolo%20Step-by-Step.ipynb
 
